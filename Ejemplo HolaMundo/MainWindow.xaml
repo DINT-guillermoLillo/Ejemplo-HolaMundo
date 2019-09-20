@@ -10,7 +10,7 @@
         <TextBlock x:Name="saludarTextBlock" HorizontalAlignment="Left" Margin="255,69,0,0" TextWrapping="Wrap" Text="Hola Mundo" VerticalAlignment="Top" Foreground="#FFD12525" Height="87" Width="273" FontSize="48"/>
         <TextBlock HorizontalAlignment="Left" Margin="255,192,0,0" TextWrapping="Wrap" Text="Nombre:" VerticalAlignment="Top" FontSize="14"/>
         <TextBox x:Name="nombreTextBox" HorizontalAlignment="Left" Height="23" Margin="255,213,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="213"/>
-        <Button Content="Cambiar" HorizontalAlignment="Left" Margin="485,216,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.5,0.5" Click="Button_Click"/>
+        <Button Content="Cambiar" HorizontalAlignment="Left" Margin="496,216,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.5,0.5" Click="Button_Click"/>
         <Button Content="Limpiar" HorizontalAlignment="Left" Margin="339,274,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.36,0.6" Click="Button_Click_1"/>
     </Grid>
 </Window>
